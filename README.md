@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : DILLIGANESAN K
-# Roll no: 212224100014
+# Name : YASHWANTH R
+# Roll no: 212224240188
 # Date of experiment : 19-08-2025
 
 
